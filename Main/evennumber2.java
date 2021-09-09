@@ -5,7 +5,7 @@ public class evennumber2 {
 		
 		int number = 1;
 		
-		if (number % 2 == 0) {			
+		if (0 == number % 2) {			
 			System.out.println(number);
 		} else {
 			number = number + 1;
